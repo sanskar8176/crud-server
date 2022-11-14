@@ -28,3 +28,10 @@ const PORT = process.env.PORT || '8080';
 Connection(USERNAME, PASSWORD);
  
 app.listen(PORT, () => console.log(`Server is running successfully on PORT ${PORT}`));
+
+
+
+// github me server and client seperate push
+// render me  webservice me server bnaya
+// render me static site me client bnaya 
+// client me server ka url use kiya route me  
